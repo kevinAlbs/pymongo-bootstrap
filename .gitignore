@@ -1,0 +1,6 @@
+.pyc
+.venv*
+__pycache__
+csfle_kmip/kmip/pykmip.log
+csfle_kmip/jsonSchema.json
+csfle_kmip/mongocryptd.pid
