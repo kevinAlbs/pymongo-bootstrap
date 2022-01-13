@@ -10,6 +10,8 @@ pip install pymongocrypt
 
 pymongo 4.0.0 or higher is required for KMIP.
 
+Ensure mongocryptd is on the PATH.
+
 Run the PyKMIP development server:
 
 ```
