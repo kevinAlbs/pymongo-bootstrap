@@ -1,5 +1,6 @@
 """
 Automatically encrypt and decrypt a field with a KMIP KMS provider.
+Example modified from https://pymongo.readthedocs.io/en/stable/examples/encryption.html#providing-local-automatic-encryption-rules
 """
 import os
 
